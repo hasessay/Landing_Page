@@ -1,0 +1,22 @@
+header {
+    background-color:#1F2937;
+}
+
+.heading {
+    display: flex;
+    flex-direction: row;
+    font-family: "Roboto";
+}
+
+.heading .logo {
+    font-size: 24px;
+    color: #F9FAF8;
+    margin-right: auto;
+    padding: 10px
+}
+
+.link {
+    font-size: 18px;
+    color: #E5E7EB;
+    padding: 15px
+}
