@@ -7,9 +7,11 @@ Challenges:
 -did not use enough divs/classes making editing of specific content difficult
 -did not use flex: property properly resulting in some distortion
 -not properly understanding flexbox. Though my understanding signifcantly improved at the end in terms of comprehension.
+-did not realize there were margin on each size of the template until the very end of the project. 
 
 Addressing challenges:
 -I will review the flexbox content on the Odin project/Kevin Powell
 -I will attempt a redesign of this project at a later date after working on others
+-I need to through review any instructions.
 
 Overall not perfect and much work could be done to improve. I look forward to learning more about css/flexbox and reviewing this project to improve it.
