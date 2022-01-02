@@ -1,7 +1,12 @@
+body {
+    font-family: "Roboto";
+    display: flex;
+    flex-direction: column;
+}
+
 .heading {
     display: flex;
     flex-direction: row;
-    font-family: "Roboto";
     flex: 1 1 auto;
     background-color:#1F2937;
 }
@@ -10,7 +15,14 @@
     font-size: 24px;
     color: #F9FAF8;
     margin-right: auto;
+    margin-left: 60px;
     padding: 10px;
+}
+
+.linkwrap {
+    margin-right: 60px;
+    display: flex;
+    flex-direction: row;
 }
 
 .link {
@@ -112,11 +124,70 @@ figcaption {
 
 .section-three {
     background-color: #E5E7EB;
+    font-size: 36px;
+    padding: 100px;
+    display: flex;
+    flex: 0 1 auto;
+    flex-direction: column;
+    margin-bottom: -99px;
+}
+
+q {
+    font-style: italic;
+    font-weight: 300px;
+    justify-content: center;
+    width: 650px;
+    height: 200px;
+    margin: auto;
+}
+
+.bolder {
+    font-weight: 900;
+    display:flex;
+    justify-content: flex-end;
 }
 
 .section-four {
     background-color: #ffffff;
+    padding: 50px;
 }
+
+.myuk {
+    background-color: #3882f6;
+    width: 500px;
+    height: auto;
+    display: flex;
+    flex: auto;
+    flex-direction: row;
+    justify-content: center;
+    margin: auto;
+    padding: 25px;
+    border-radius: 25px;
+}
+
+.myukword{
+    color: #E5E7EB;
+    font-size: 18px;
+}
+
+h3 {
+    color: #f9faf8;
+    font-size: 24px;
+}
+
+.button2 {
+    background-color: #3882f6;
+    border-style: solid;
+    border-color: #ffffff;
+    border-radius: 25px;
+    color: #ffffff;
+    width: 100px;
+    height: 24px;
+    align-self: center;
+    flex: auto;
+}
+
+
 
 footer {
     background-color:#1F2937;
